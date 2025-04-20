@@ -65,8 +65,8 @@ Otherwise, just use a chatbot. This was for fun.
 > Sitting in a hacker's caravan, letting androids and servers do the job.
 
 ## Next
-> Another program to create syntax highlited beautiful pages in HTML + CSS. 
+Another program to create syntax highlited beautiful pages in HTML + CSS. 
 ---
 
-> Solo dev. 194k examples. Let’s see what happens.
+! Solo dev. 194k examples. Let’s see what happens.
   ``` 
