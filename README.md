@@ -1,4 +1,5 @@
-![Image](images/image.png)
+![Image](images/image1.png)
+![Image](images/image2.png)
 
 
 ```markdown
@@ -48,5 +49,3 @@ Maybe one day, someone Googles a Java command, lands here, and learns something.
 
 > Solo dev. 170k examples. Let’s see what happens.
 ``` 
-
-Want it tighter, more German, or more dev-focused?
