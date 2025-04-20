@@ -4,9 +4,6 @@
 
 ![Image](media/image2.png)
 
-![Image](media/image3.png)
-
-
 ```markdown
 # Java Examples for JDK 17
 
@@ -67,6 +64,7 @@ Otherwise, just use a chatbot. This was for fun.
 > Sitting in a hacker's caravan, letting androids and servers do the job.
 
 ## Next
+
 Another program to create syntax highlited beautiful pages in HTML + CSS. 
 ---
 
