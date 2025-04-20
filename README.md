@@ -1,4 +1,4 @@
-[▶️ Watch the video](videos/video.mp4)
+[▶️ Watch the video](media/video.mp4)
 
 ![Image](images/image1.png)
 
