@@ -1,3 +1,8 @@
+<video width="600" autoplay muted loop playsinline>
+  <source src="videos/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ![Image](images/image1.png)
 
 ![Image](images/image2.png)
