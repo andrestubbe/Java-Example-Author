@@ -1,51 +1,61 @@
 ![Image](images/image1.png)
+
 ![Image](images/image2.png)
 
 
 ```markdown
-# Java-Examples
+# Java Examples for JDK 17
 
-
-This project automatically creates beginner-friendly Java example programs — for **every single Java command**. 
+This project automatically creates beginner-friendly Java example programs — for **every single Java command**. It's a one-day experiment using Ollama and `stable-code`, built for educational purposes.
 
 ## What is it?
 
-I built a system that scans the entire Java language and collects **170,000+ commands** (like a dictionary). Then, using `ollama run stable-code`, it asks an AI to generate one **simple example per command**. 
-
-Yes — 170,000 code snippets.  
-No manual work. Pure automation.
+I built a system that scans the entire Java language and collects **170,000+ commands** (like a dictionary). Then, using `ollama run stable-code`, it asks an AI to generate one **simple example per command**. It's not perfect, but it works. It runs in the background on my machine, and I occasionally commit the new files.  
+Yes — 170,000 code snippets. No manual work. Pure automation.
 
 ## Why?
 
-- Oracle provides documentation, but not per-command examples.
-- This is for **learners**, not experts.
-- You see a command — you see how it works. That simple.
+- One-day project  
+- Oracle provides documentation, but not per-command examples  
+- This is for **learners**, not experts  
+- See a command → see how it works. Simple.  
+- I’ve never read the entire JDK!
 
 ## How?
 
-- Language: **Java**
-- AI: [`stable-code`](https://ollama.com/library/stable-code) via [`ollama`](https://ollama.com)
-- Process: A Java class runs the AI prompt loop.
-- Time: One full pass = **343.5 days** nonstop. 🫠  
-  (I may need more machines...)
+- Language: **Java**  
+- Install AI: [`stable-code`](https://ollama.com/library/stable-code) via [`ollama`](https://ollama.com), or another model  
+- In the terminal, run: `ollama run stable-code` and wait for the download  
+- Open your IDE  
+- Use **JDKClassScanner** and **JDKMethodScanner** to generate the text files
+- Now you need `json.jar` in your classpath  
+- Run **JDKExampleGenerator** locally with one of the files (set `INPUT_FILE`)  
+- Time estimate: one full pass = **343.5 days** nonstop (about one file every 2.9 minutes 🫠)  
+  I might need more machines... or an NPU.
 
 ## Goal
 
 A **huge open-source book** with every Java command + example.  
-Something that actually helps beginners.  
+Built to truly help beginners.  
 Published weekly on GitHub. Free.  
+One-day project, long-term consequences for my machine.  
+Currently messy, but improving.
 
 ## Motivation
 
 > *“Aus dem gelernten AI-Chatbot-Wissen muss ja etwas werden.”*  
+(German: “Something has to come from all this AI chatbot knowledge.”)
+
 I wanted to build something real with AI — and now I can.  
-Maybe one day, someone Googles a Java command, lands here, and learns something... with my name on it.
+Maybe one day, someone Googles a Java command, lands here, and learns something... with my name on it.  
+Otherwise, just use a chatbot. This was for fun.
 
 ## Status
 
-⏳ Generating... publishing updates weekly.  
+⏳ Generating... publishing updates weekly.
 
 ---
 
 > Solo dev. 170k examples. Let’s see what happens.
+
 ``` 
