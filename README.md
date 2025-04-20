@@ -1,7 +1,9 @@
+![Image](images/image.png)
+
+
 ```markdown
 # Java-Examples
 
-![Image](images/image.png)
 
 This project automatically creates beginner-friendly Java example programs — for **every single Java command**. 
 
