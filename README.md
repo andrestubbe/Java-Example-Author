@@ -32,12 +32,14 @@ commit the new files. Yes — 194,098 code snippets. No manual work. Pure automa
 
 ## How?
 
-- Language: **Java**  
-- Install AI: [`stable-code`](https://ollama.com/library/stable-code) via [`ollama`](https://ollama.com), or another model  
+- Language: **Java**
+- Install [`ollama`](https://ollama.com)
+- Install AI Model: [`stable-code`](https://ollama.com/library/stable-code), or another   
 - In the terminal, run: `ollama run stable-code` and wait for the download  
 - Open your IDE  
 - Use **JDKClassScanner** and **JDKMethodScanner** to generate the text files  
-- Add [`json.jar`](https://repo1.maven.org/maven2/org/json/json/20231013/json-20231013.jar) to your classpath  
+- Add [`json.jar`](https://repo1.maven.org/maven2/org/json/json/20231013/json-20231013.jar)
+  to your classpath  
 - Run **JDKExampleGenerator** locally with one of the files (set `INPUT_FILE`)  
 - Time estimate: one full pass = **343.5 days** nonstop (about one file every 2.9 minutes 🫠)  
   I might need more machines... or an NPU.
