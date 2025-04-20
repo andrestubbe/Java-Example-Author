@@ -65,7 +65,8 @@ Otherwise, just use a chatbot. This was for fun.
 
 ## Next
 
-Another program to create syntax highlited beautiful pages in HTML + CSS. 
+Another program to create syntax highlited beautiful pages in HTML + CSS for java classes
+on a personal server. the same for C# learning, and probably for JOGL 2.5.0
 ---
 
 ! Solo dev. 194k examples. Let’s see what happens.
