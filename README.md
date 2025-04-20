@@ -53,6 +53,7 @@ Otherwise, just use a chatbot. This was for fun.
 ## Status
 
 ⏳ Generating... publishing updates weekly.
+> Sitting in a hacker's caravan, letting androids and servers do the job.
 
 ---
 
