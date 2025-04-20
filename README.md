@@ -1,4 +1,5 @@
-Here’s a tight, mostly English version with light, intentional German flavor to keep it personal and authentic:
+![Preview](images/Screenshot (342).png)
+
 
 ```markdown
 # Java-Examples
