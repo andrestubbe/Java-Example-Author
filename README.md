@@ -4,6 +4,8 @@
 
 ![Image](images/image2.png)
 
+![Image](images/image3.png)
+
 
 ```markdown
 # Java Examples for JDK 17
@@ -62,6 +64,8 @@ Otherwise, just use a chatbot. This was for fun.
 ⏳ Generating... publishing updates weekly.  
 > Sitting in a hacker's caravan, letting androids and servers do the job.
 
+## Next
+> Another program to create syntax highlited beautiful pages in HTML + CSS. 
 ---
 
 > Solo dev. 194k examples. Let’s see what happens.
