@@ -1,10 +1,10 @@
 [▶️ Watch the video](media/video.mp4)
 
-![Image](images/image1.png)
+![Image](media/image1.png)
 
-![Image](images/image2.png)
+![Image](media/image2.png)
 
-![Image](images/image3.png)
+![Image](media/image3.png)
 
 
 ```markdown
