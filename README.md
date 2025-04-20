@@ -1,8 +1,7 @@
-![Preview](images/Screenshot (342).png)
-
-
 ```markdown
 # Java-Examples
+
+![Preview](images/Screenshot (342).png)
 
 This project automatically creates beginner-friendly Java example programs — for **every single Java command**. 
 
