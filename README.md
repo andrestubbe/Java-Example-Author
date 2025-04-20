@@ -39,7 +39,7 @@ commit the new files. Yes — 194,098 code snippets. No manual work. Pure automa
   to your classpath  
 - Run **JDKExampleGenerator** locally with one of the files (set `INPUT_FILE`)  
 - Time estimate: one full pass = **343.5 days** nonstop (about one file every 2.9 minutes 🫠)  
-  I might need more machines... or an NPU.
+  I might need more machines... or a NPU.
 
 ## Goal
 
