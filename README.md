@@ -5,7 +5,7 @@
 ![Image](media/image2.png)
 
 ```markdown
-# Java Examples for JDK 17 - UNDER COSTRUCTION - WIP
+# Java Examples for JDK 17 - UNDER COSTRUCTION - WIP - AGENT
 
 This project automatically creates beginner-friendly Java example programs — for  
 **every single Java command**. It's a one-day experiment using Ollama and `stable-code`,  
