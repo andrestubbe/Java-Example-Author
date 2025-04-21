@@ -5,7 +5,7 @@
 ![Image](media/image2.png)
 
 ```markdown
-# Java Examples for JDK 17
+# Java Examples for JDK 17 - UNDER COSTRUCTION - WIP - AGENT
 
 This project automatically creates beginner-friendly Java example programs — for  
 **every single Java command**. It's a one-day experiment using Ollama and `stable-code`,  
@@ -39,7 +39,7 @@ commit the new files. Yes — 194,098 code snippets. No manual work. Pure automa
   to your classpath  
 - Run **JDKExampleGenerator** locally with one of the files (set `INPUT_FILE`)  
 - Time estimate: one full pass = **343.5 days** nonstop (about one file every 2.9 minutes 🫠)  
-  I might need more machines... or an NPU.
+  I might need more machines... or a NPU.
 
 ## Goal
 
@@ -65,7 +65,8 @@ Otherwise, just use a chatbot. This was for fun.
 
 ## Next
 
-Another program to create syntax highlited beautiful pages in HTML + CSS. 
+Another program to create syntax highlited beautiful pages in HTML + CSS for java classes
+on a personal server. The same spider + generator for C# learning, and probably for JOGL 2.5.0
 ---
 
 ! Solo dev. 194k examples. Let’s see what happens.
