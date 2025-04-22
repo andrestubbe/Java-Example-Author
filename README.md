@@ -65,9 +65,13 @@ Otherwise, just use a chatbot. This was for fun.
 
 ## Next
 
-Make it smarter! It's not an agent yet but has some characteristics of that direction.
-Another program is to create syntax highlited beautiful pages in HTML + CSS for java classes
-on a personal server. The same spider + generator for C# learning, and probably for JOGL 2.5.0
+Enhance its intelligence! It currently includes unnecessary elements, such as extra parentheses.
+It is likely stable code, so I cycle through all models to determine which produces the best results.
+I will integrate a scanner for classes, methods, overloaded methods, and their respective structures.
+It is not yet an agent yet,  t exhibits some characteristics in that direction.
+Another program involves generating syntax-highlighted, visually appealing pages in HTML and CSS for
+ Java classes hosted on a personal server.
+The same spider and generator will be adapted for C# learning and potentially JOGL 2.5.0.
 ---
 
 ! Solo dev. 194k examples. Let’s see what happens.
