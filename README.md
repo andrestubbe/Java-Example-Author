@@ -2,6 +2,8 @@
 
 ![Image](media/image1.png)
 
+![Image](media/image3.png)
+
 ![Image](media/image2.png)
 
 ```markdown
@@ -76,5 +78,3 @@ The same spider and generator will be adapted for C# learning and potentially JO
 
 ! Solo dev. 194k examples. Let’s see what happens.
   ``` 
-
-![Image](media/image3.png)
