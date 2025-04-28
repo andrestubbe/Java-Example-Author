@@ -1,4 +1,7 @@
 
+
+```markdown
+
 Click on a Video below
 
 
@@ -8,7 +11,7 @@ Click on a Video below
 
 
 
-```markdown
+
 # Java Examples for JDK 17 - UNDER COSTRUCTION - WIP - AGENT
 
 This project automatically creates beginner-friendly Java example programs — for  
