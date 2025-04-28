@@ -1,6 +1,4 @@
-[▶️ Watch the video](media/video.mp4)
-
-![Video Title](https://www.youtube.com/watch?v=hFGY4f6NVO8/0.jpg)(https://www.youtube.com/watch?v=hFGY4f6NVO8)
+![Watch](https://www.youtube.com/watch?v=TysMvQu2ZAE)
 
 ![Image](media/image1.png)
 
