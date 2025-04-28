@@ -1,9 +1,11 @@
+UNDER COSTRUCTION 
+
 Click on a Video below
 
 [![Watch](https://img.youtube.com/vi/TysMvQu2ZAE/0.jpg)](https://www.youtube.com/watch?v=TysMvQu2ZAE)[![Watch](https://img.youtube.com/vi/hFGY4f6NVO8/0.jpg)](https://www.youtube.com/watch?v=hFGY4f6NVO8&t=32s)
 
 ```markdown
-# Java Examples for JDK 17 - UNDER COSTRUCTION - WIP - AGENT
+# Java Examples for JDK 24 - UNDER COSTRUCTION - WIP - AGENT
 
 This project automatically creates beginner-friendly Java example programs — for  
 **every single Java command**. It's a one-day experiment using Ollama and `stable-code`,  
