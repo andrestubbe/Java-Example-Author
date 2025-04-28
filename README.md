@@ -1,12 +1,9 @@
+
+Click on a Video below
 [![Watch](https://img.youtube.com/vi/TysMvQu2ZAE/0.jpg)](https://www.youtube.com/watch?v=TysMvQu2ZAE)          [![Watch](https://img.youtube.com/vi/hFGY4f6NVO8/0.jpg)](https://www.youtube.com/watch?v=hFGY4f6NVO8&t=32s)
 
 
 
-![Image](media/image1.png)
-
-![Image](media/image3.png)
-
-![Image](media/image2.png)
 
 ```markdown
 # Java Examples for JDK 17 - UNDER COSTRUCTION - WIP - AGENT
@@ -79,4 +76,9 @@ The same spider and generator will be adapted for C# learning and potentially JO
 ---
 
 ! Solo dev. 194k examples. Let’s see what happens.
-  ``` 
+  ```
+
+![Image](media/image1.png)
+![Image](media/image3.png)
+![Image](media/image2.png)
+
